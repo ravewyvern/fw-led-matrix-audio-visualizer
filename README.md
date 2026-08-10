@@ -14,7 +14,7 @@ Note: you might have to create a virtual environment
 
 Install cava via your package manager (eg pacman, apt, dnf, etc)
 
-and everything should work once you run in
+and everything should work once you run it
 
 ## arguments
 
