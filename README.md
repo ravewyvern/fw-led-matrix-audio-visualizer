@@ -2,7 +2,7 @@
 
 Uses CAVA to visualize audio onto the LED matrices on your framework laptop.
 
-This works on linux with 2 LED matrices but it wont work on windows and I havent testing it with using only one LED matrix.
+This works on linux with 2 LED matrices but it wont work on windows and I havent tested it with only one LED matrix.
 
 ## Installation 
 Both cava and pyserial are required for it to work
